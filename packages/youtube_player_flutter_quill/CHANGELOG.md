@@ -1,3 +1,6 @@
+## 8.2.2
+- bumped flutter_inappwebview_quill
+
 ## 8.2.1
 * Attempt to fix undefined main class
 
