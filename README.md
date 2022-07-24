@@ -1,5 +1,5 @@
 # Youtube Player IFrame
-![YOUTUBE PLAYER IFRAME](packages/youtube_player_flutter/misc/ypf_banner.png)
+![YOUTUBE PLAYER IFRAME](packages/youtube_player_flutter_quill/misc/ypf_banner.png)
 
 
 [![pub package](https://img.shields.io/pub/v/youtube_player_iframe.svg)](https://pub.dartlang.org/packages/youtube_player_iframe)
