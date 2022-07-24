@@ -1,3 +1,6 @@
+## 8.2.1
+* Attempt to fix undefined main class
+
 ## 8.2.0
 * Updated YouTube Player Flutter to work with Xcode 14 and iOS 16 betas
 
